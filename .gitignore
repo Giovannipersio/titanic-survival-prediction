@@ -1,0 +1,48 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost
+catboost_info/
+
+# Dados locais
+data/*.csv
+data/*.zip
+!data/.gitkeep
+
+# Outputs gerados
+outputs/*
+!outputs/.gitkeep
+
+# Documentação local
+99_documentacao/
+
+# Agents locais
+agents/
+
+# Modelos e artefatos pesados
+*.pkl
+*.joblib
+*.cbm
+*.model
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
