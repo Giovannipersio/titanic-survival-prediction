@@ -4,7 +4,7 @@
 [![CatBoost](https://img.shields.io/badge/Model-CatBoost-FFCC00?style=flat)](https://catboost.ai/)
 [![Optuna](https://img.shields.io/badge/Optimization-Optuna-3155A4?style=flat)](https://optuna.org/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Titanic-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/c/titanic)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)]()
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)](https://github.com/Giovannipersio/titanic-survival-prediction)
 
 ## Overview
 
